@@ -1,0 +1,4 @@
+数据标题：百度音乐带标签，作曲，演唱者，类别的歌词数据
+数据网址：http://www.datatang.com/datares/go.aspx?dataid=616874
+
+百度音乐http://music.baidu.com/tag下的歌曲信息，包括演唱者，分类标签，词曲作者，歌词lrc，以及歌曲网页的html源码。song.rar中是歌曲页面的html源码lrc中是每首歌对应的歌词tag中是每个tag是一个文件，文件中包括相应的歌曲id 

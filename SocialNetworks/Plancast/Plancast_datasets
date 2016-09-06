@@ -1,0 +1,14 @@
+Plancast Dataset
+This dataset is crawled from plancast.com from Jan 2012 to Feb 2012. Plancast.com is also an online social event service. On Plancast, social events are created by users by specifying when, where and what the event is. However, unlike Meetup that use online group to distribution social events to others, Plancast allow users to subscribe to each other (similar to twitter). That is, if user A subscribes to user B, social events created by B are pushed to user A. In additional to these push methods, public social events are also made available to others on their website. Similar to Meetup, Plancast users may also express their intent to join the events by RSVP ("yes", "no" or "maybe") online.
+This dataset contains all the crawled user event participations as well as user subscription links. All the data are also anonymized.
+Dataset Statistics:
+
+# Users:	93,041	# User Subscriptions:	1,702,058
+# Events:	401,634	# User-Event Pairs:	869,200
+# Event with Locations:	213,019		
+Dataset Download Links:
+
+Plancast_network.zip (9.2MB) contains information about Plancast online and offline social networks.
+[Download], [Backup Download].
+Plancast_geo.zip (2.2MB) stores geographic locations for Plancast events. 
+[Download], [Backup Download].

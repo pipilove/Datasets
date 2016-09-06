@@ -1,0 +1,19 @@
+Meetup is an online social networking portal that facilitates offline group meetings in various localities around the world. Meetup allows members to find and join groups unified by a common interest, such as politics, books, games, movies, health, pets, careers or hobbies. 
+
+Meetup Dataset
+This dataset is crawled from meetup.com from Oct 2011 to Jan 2012. Meetup.com is an online social event service that helps people publish and participate face-to-face events. On Meetup, social events are created by users by specifying when, where and what the event is. Then, the created social events are made available to selected users or public, controlled by the event creators. Other users may express their intent to join the events by RSVP ("yes", "no" or "maybe") online. To facilitate online interactions, meetup.com also allows users to form social groups (e.g. bay area single moms", Nevada county walkers") to share comments, photos and event plans.
+The dataset here contains all of our crawled groups and social events. All the data are anonymized. That is, the user/group/event ids in this dataset have unreleased one to one mapping to real ids in meetup.com. 
+
+Dataset Statistics:
+# Users:	4,448,454	# Groups:	42,052
+# Events:	1,595,833	# Tags:	77,810
+# User-Group Pairs:	8,863,235	# User-Event Pairs:	13,553,134
+# User-Tag Pairs:	15,057,535	# Group-Tag Pairs:	144,793
+# Users with Locations:	3,741,699	# Events with Locations:	983,333
+Dataset Download Links:
+Meetup_network.zip (132MB) contains information about Meetup online and offline social networks.
+[Download], [Backup Download].
+Meetup_geo.zip (33MB) stores geographic locations for Meetup users and events. 
+[Download], [Backup Download].
+Meetup_tag.zip (52MB) stores text tag selected by Meetup users and online groups. 
+
